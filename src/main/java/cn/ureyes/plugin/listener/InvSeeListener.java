@@ -1,4 +1,4 @@
-package cn.ureyes.plugin.invSee.listener;
+package cn.ureyes.plugin.listener;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.HumanEntity;
@@ -9,7 +9,7 @@ import org.bukkit.event.inventory.*;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.PlayerInventory;
-import cn.ureyes.plugin.invSee.command.InvSeeCommand;
+import cn.ureyes.plugin.command.InvSeeCommand;
 
 import java.util.UUID;
 
