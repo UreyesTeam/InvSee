@@ -11,6 +11,10 @@ commands:
     description: 查看并编辑指定玩家的背包、护甲和副手
     usage: /invsee <玩家名>
     permission: invsee.use
+  endersee:
+    description: 查看其他玩家的末影箱
+    usage: /endersee <玩家名>
+    permission: invsee.endersee.use
   reload:
     description: 重载插件的配置文件
     usage: /invsee reload
@@ -19,6 +23,9 @@ commands:
 permissions:
   invsee.use:
     description: 允许使用 /invsee
+    default: op
+  invsee.endersee.use:
+    description: 允许使用 /endersee
     default: op
   invsee.reload:
     description: 允许使用 /invsee reload

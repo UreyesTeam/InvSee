@@ -79,6 +79,7 @@ public class InvSeeCommand implements CommandExecutor {
         gui.setItem(1, armor.length > 2 ? armor[2] : null); // 胸甲
         gui.setItem(2, armor.length > 1 ? armor[1] : null); // 裤子
         gui.setItem(3, armor.length > 0 ? armor[0] : null); // 靴子
+
         // 槽4 空
 
         // 副手
