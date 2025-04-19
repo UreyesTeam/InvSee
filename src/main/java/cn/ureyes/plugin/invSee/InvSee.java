@@ -1,10 +1,10 @@
-package cn.ureyes.invSee;
+package cn.ureyes.plugin.invSee;
 
-import cn.ureyes.invSee.command.InvSeeTabCompleter;
 import org.bukkit.ChatColor;
 import org.bukkit.plugin.java.JavaPlugin;
-import cn.ureyes.invSee.command.InvSeeCommand;
-import cn.ureyes.invSee.listener.InvSeeListener;
+import cn.ureyes.plugin.invSee.command.InvSeeTabCompleter;
+import cn.ureyes.plugin.invSee.command.InvSeeCommand;
+import cn.ureyes.plugin.invSee.listener.InvSeeListener;
 
 public final class InvSee extends JavaPlugin {
 

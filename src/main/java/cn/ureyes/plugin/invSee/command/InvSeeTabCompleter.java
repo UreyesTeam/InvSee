@@ -1,4 +1,4 @@
-package cn.ureyes.invSee.command;
+package cn.ureyes.plugin.invSee.command;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.CommandSender;

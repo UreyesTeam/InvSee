@@ -1,4 +1,4 @@
-package cn.ureyes.invSee.command;
+package cn.ureyes.plugin.invSee.command;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -12,7 +12,7 @@ import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.PlayerInventory;
 import org.bukkit.inventory.meta.ItemMeta;
-import cn.ureyes.invSee.InvSee;
+import cn.ureyes.plugin.invSee.InvSee;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,6 @@
 name: InvSee
 version: '1.0-SNAPSHOT'
-main: cn.ureyes.invSee.InvSee
+main: cn.ureyes.plugin.invSee.InvSee
 api-version: '1.21'
 authors: [ UzawaReisaQwQ ]
 description: InvSee Plugin
