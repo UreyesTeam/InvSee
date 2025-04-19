@@ -1,0 +1,7 @@
+name: InvSee
+version: '1.0-SNAPSHOT'
+main: cn.ureyes.invSee.InvSee
+api-version: '1.21'
+authors: [ UzawaReisaQwQ ]
+description: InvSee Plugin
+website: https://ureyes.online
